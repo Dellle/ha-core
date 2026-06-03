@@ -1,0 +1,21 @@
+homeassistant/components/elevenlabs/manifest.json
+  s_cf793e2aaaf98b::t_909c1e37f7ed69 10
+requirements_all.txt
+  ai_agent 898,2987
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.2",
+  "base_commit_sha": "0e5ab173dc2aa28e0cae1a6f7a95f4930ade98dc",
+  "prompts": {},
+  "sessions": {
+    "s_cf793e2aaaf98b": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "9fd64578-7339-44dc-b12c-89aab3cefd5d",
+        "model": "claude-opus-4-6"
+      },
+      "human_author": "Sebastian Dellwig <sebastian.dellwig@porsche.digital>"
+    }
+  }
+}
