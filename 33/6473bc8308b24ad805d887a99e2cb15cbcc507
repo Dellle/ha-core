@@ -1,0 +1,32 @@
+homeassistant/components/elevenlabs/tts.py
+  s_6585de00a7be33::t_74f62e4da8ae78 68
+  s_6585de00a7be33::t_94f0d68611d80f 29
+homeassistant/components/elevenlabs/config_flow.py
+  s_6585de00a7be33::t_1ca2271e3ea9a0 21
+  s_6585de00a7be33::t_7f3fa4c66d7b22 54
+  s_6585de00a7be33::t_ae694f7d97066a 18
+  s_6585de00a7be33::t_da3a154112307e 179-180
+tests/components/elevenlabs/conftest.py
+  s_6585de00a7be33::t_8b2e7922cddb5e 75,101
+  s_6585de00a7be33::t_1676e84e4d664c 8
+  s_6585de00a7be33::t_0140f53d5bf851 38-40,169-171
+homeassistant/components/elevenlabs/__init__.py
+  s_6585de00a7be33::t_7c1f3785cf099e 8
+  s_6585de00a7be33::t_1009432efc3e74 41-55
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.2",
+  "base_commit_sha": "336473bc8308b24ad805d887a99e2cb15cbcc507",
+  "prompts": {},
+  "sessions": {
+    "s_6585de00a7be33": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "ef373fa9-a96a-49b8-bfd6-225cbe9dc55e",
+        "model": "claude-opus-4-6"
+      },
+      "human_author": "Sebastian Dellwig <sebastian.dellwig@porsche.digital>"
+    }
+  }
+}
