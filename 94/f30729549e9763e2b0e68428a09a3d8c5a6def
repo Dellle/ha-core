@@ -1,0 +1,21 @@
+requirements_all.txt
+  s_33629b66a43109::t_fa8918f1f46f59 898
+homeassistant/components/elevenlabs/manifest.json
+  s_33629b66a43109::t_0c40de247363c2 10
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.7",
+  "base_commit_sha": "94f30729549e9763e2b0e68428a09a3d8c5a6def",
+  "prompts": {},
+  "sessions": {
+    "s_33629b66a43109": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "b9b6658f-971e-4ed9-9707-395d1fff76ec",
+        "model": "claude-opus-4-6"
+      },
+      "human_author": "Sebastian Dellwig <39235395+Dellle@users.noreply.github.com>"
+    }
+  }
+}
